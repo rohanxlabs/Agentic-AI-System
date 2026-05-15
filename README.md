@@ -14,7 +14,7 @@
 🎬 Demo (Agent in Action)
 
 <p align="center">
-</p>👉 Add your demo link here (important)
+</p>👉 https://chronos-agent-weave.lovable.app
 
 ---
 
